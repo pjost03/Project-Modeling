@@ -1,0 +1,64 @@
+---
+title: "Untitled"
+author: "Patrick Jost"
+date: "3/11/2023"
+output: html_document
+---
+## Instructions
+```
+In this module you learned how to set up Git + GitHub accounts. For this homework:
+
+Create a Github Account.  
+
+Open an rmd file and in a few sentences, list two main things you learned from each week. So, you will be listing a total of 16 items.  
+Save your rmd file (from above) in your Github account.
+
+Submit the url to your Github account.
+
+Note the main purpose of this exercise is to see how you can utilize Github. Also, creating the above rmd file will help you review topics you have learned in this course.
+```
+### Week 1
+```
+1.) We learned about overfitting our model. This is when our model learns to fit the noise in our training set instead of generalizing patterns in our data set. 
+2.) We learned about the stages of a Data Science Project. This includes defining a goal, collecting and managing data, building a model, evaluating and critiquing your model, and presenting the results. 
+```
+### Week 2
+```
+1.) We looked at ways to explore data. This includes using the summary function which can help us identify problems within our data such as missing values or outliers. 
+2.) We learned how to use ggplot to visualize our data. This makes it easier for us to get a better undertanding of our data and find relationships between our variables. 
+```
+### Week 3
+```
+1.) We learned how to perform linear regression in R and how to interpret the results. 
+2.) We discussed why it is important to have uncorrelated error terms in our linear regression model. If we do have correlated residuals, this will effect our models accuracy and lead to incorrect assumptions. 
+```
+### Week 4
+```
+1.) We learned about when it is not appropriate to use a linear regression model. For instance when we have a qualitative response, it is more appropriate to use a logistic regression model.
+2.) We studied how to use a confusion matrix to evaluate the performance of a classifier. The confusion matrix is useful for measuring the precision and recall of our model. 
+```
+### Week 5
+```
+1.) We discussed the advantages and disadvantages of using generalized linear models. Some of the advantages include removing bias caused by a change in the mix of business, and the pure effects of the predictors on the response can be observed. The disadvantages include longer processing time and a large number of trial and error runs.
+2.) We built generalized linear models using Poisson regression and gamma regression. 
+```
+### Week 6
+```
+1.) We discussed gradient boosting machines, which are a collection of shallow trees that learn and improve on previous trees.
+2.) We learned how to build tree regression models and random forest regression models.  
+```
+### Week 7
+```
+1.) We discussed unsupervised algorithms and applications for them. This includes clustering, dimensionality reduction, and anomaly detection. 
+2.) We preformed a classification by building a clustering model and learned how to visualize the classification. 
+```
+### Week 8
+```
+1.) We set up a Github account and learned about some of the common commands that are useful within our repositories. 
+2.) We learned about how to communicate the results our analysis. We need to explain what our goals were, where the data came from, and techniques that were tried when building our model. We learned how to make an isoslide presentation within R markdown. 
+```
+
+
+
+
+
